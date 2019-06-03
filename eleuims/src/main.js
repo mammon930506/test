@@ -16,7 +16,7 @@ new Vue({
   components: { App },
   template: '<App/>',
   data:{
-    name:"aiishiteruteyuukotobaga"
+    name:"cccccoooooolision"
   }
 })
 
